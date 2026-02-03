@@ -1,0 +1,14 @@
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll

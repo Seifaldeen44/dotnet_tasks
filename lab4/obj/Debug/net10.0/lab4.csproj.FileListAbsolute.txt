@@ -1,0 +1,14 @@
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/bin/Debug/net10.0/lab4
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/bin/Debug/net10.0/lab4.deps.json
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/bin/Debug/net10.0/lab4.runtimeconfig.json
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/bin/Debug/net10.0/lab4.dll
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/bin/Debug/net10.0/lab4.pdb
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/obj/Debug/net10.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/obj/Debug/net10.0/lab4.AssemblyInfoInputs.cache
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/obj/Debug/net10.0/lab4.AssemblyInfo.cs
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/obj/Debug/net10.0/lab4.csproj.CoreCompileInputs.cache
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/obj/Debug/net10.0/lab4.dll
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/obj/Debug/net10.0/refint/lab4.dll
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/obj/Debug/net10.0/lab4.pdb
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/obj/Debug/net10.0/lab4.genruntimeconfig.cache
+/Users/seifaldeen4/Desktop/sefo/iti/dot net/lab4/obj/Debug/net10.0/ref/lab4.dll
