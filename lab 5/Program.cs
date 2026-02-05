@@ -232,30 +232,76 @@ class Person
 
 //^7
 
-class calculator
-{
-    public static int divide(int x, int y)
-    {
-        try
-        {
-            return x/y;
-        }
-        catch(DivideByZeroException e)
-        {
-            System.Console.WriteLine(e);
-            return -1;
-        }
-        catch (FormatException e)
-        {
-            System.Console.WriteLine(e);
-            return -1;
-        }
+// class calculator
+// {
+//     public static int divide(int x, int y)
+//     {
+//         try
+//         {
+//             return x/y;
+//         }
+//         catch(DivideByZeroException e)
+//         {
+//             System.Console.WriteLine(e);
+//             return -1;
+//         }
+//         catch (FormatException e)
+//         {
+//             System.Console.WriteLine(e);
+//             return -1;
+//         }
 
-        catch (Exception e)
+//         catch (Exception e)
+//         {
+//             System.Console.WriteLine(e);
+//             return -1;
+//         }
+//     }
+// }
+
+// public class program
+// {
+//     public static void Main()
+//     {
+        
+        
+//         System.Console.WriteLine(calculator.divide(5,0));
+//     }
+// }
+
+//^8
+
+class fileResource
+{
+    string fileName;
+    bool isOpen;
+
+    public fileResource(string name)
+    {
+        fileName = name;
+        isOpen = false;
+    }
+
+    public void open()
+    {
+        System.Console.WriteLine($"opening file: {fileName}");
+        isOpen = true;
+    }
+
+    public string read()
+    {
+        if (!isOpen)
         {
-            System.Console.WriteLine(e);
-            return -1;
+            throw new Exception("file is not opened");
         }
+        System.Console.WriteLine("reading data from file");
+        return "sample data";
+    }
+
+    public void close()
+    {
+        System.Console.WriteLine($"closing file: {fileName}");
+        isOpen = false;
     }
 }
 
@@ -263,12 +309,24 @@ public class program
 {
     public static void Main()
     {
-        
-        
-        System.Console.WriteLine(calculator.divide(5,0));
+        fileResource file = new fileResource("data.txt");
+
+        try
+        {
+            file.open();
+            string data = file.read();
+            System.Console.WriteLine(data);
+        }
+        catch (Exception e)
+        {
+            System.Console.WriteLine("error: " + e.Message);
+        }
+        finally
+        {
+            // ALWAYS executes
+            file.close();
+        }
+
+        System.Console.WriteLine("program continues...");
     }
 }
-
-//^8
-
-//
